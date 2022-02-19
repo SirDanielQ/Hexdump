@@ -4,8 +4,6 @@
     Version:    R01
     Name:       Hexdump
 
-    This is version 2 of the Task Simple Spell Checker and shall represent a more efficient check
-
     Middle Task:
 
     Write a program that displays the content of a file byte-by-byte in hexadecimal and ASCII. The program shall provide the following command-line interface:
