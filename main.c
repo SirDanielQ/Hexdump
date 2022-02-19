@@ -68,7 +68,6 @@ int open_input_file(const char* file_name)
     {
         for(int j=(x % HEX_DUMP_LEN); j<HEX_DUMP_LEN; j++) if( fprintf(stdout,"   ") < 0) return 1;
         if ( fprintf(stdout,"%s\n",line_string) < 0) return 1;
-
     }
 
     if (ferror(fp))
