@@ -23,13 +23,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
-#include <string.h>
-
-
 
 // Constants
-
-// structs
+#define BYTESIZE 1
+#define HEX_DUMP_LEN 16
 
 //Prototypes
 int open_input_file(const char* file_name);

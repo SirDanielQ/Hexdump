@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1645287230 source:e:\fhtw_daniel_stevic\semester_1\hwse\hexdump\main.c
+	"main.h"
+
+1645282614 e:\fhtw_daniel_stevic\semester_1\hwse\hexdump\main.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
