@@ -1,6 +1,6 @@
 【Oliver】I Can't Decide【VOCALOIDカバー曲】
 #include "main.h"                
-
+this changed
 //#define DEBUG
 
 int main()//int argc, const char *argv[])
